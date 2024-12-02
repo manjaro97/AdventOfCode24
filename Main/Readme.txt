@@ -1,0 +1,3 @@
+go test ./...
+go run main.go    
+go doc fmt.Scanf  
